@@ -6,7 +6,7 @@
     text-decoration: none;
 }
 body{
-    background-image: linear-gradient(black,)  url(bg.jpg);
+    background-image: url(bg.jpg);
     background-size: cover;
     background-position: center center;
     height: 130vh;
